@@ -10,4 +10,4 @@ SO THAT our own site is optimized for search engines
 Here is the deployed link https://anitachengalva.github.io/hw1_semantic_refactoring/
 
 Here is a screenshot of the site:
-![screenshot](images\screenshot.png)
+<img src="images\screenshot.png">
